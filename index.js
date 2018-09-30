@@ -15,5 +15,5 @@ function overwriteBestCustomer(customer) {
 }
 
 function leastFavoriteCustomer() {
-
+  leastFavoriteCustomer = 'umbridge';
 }
